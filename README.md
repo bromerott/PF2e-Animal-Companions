@@ -4,7 +4,7 @@ This is a simple fork of the original package provided at: https://foundryvtt.co
 
 Only forked to keep compatibility with core foundry version 0.8.9.
 
-Module URL: https://github.com/bromerott/PF2e-Animal-Companions/blob/main/module.json
+Module URL: https://raw.githubusercontent.com/bromerott/PF2e-Animal-Companions/main/module.json
 
 into the install module dialog on the Foundry Add-on Module tab.
 
