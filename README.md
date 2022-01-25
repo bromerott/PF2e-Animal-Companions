@@ -1,6 +1,10 @@
 # PF2e-Animal-Companions
 
-Install this module by pasting this link: https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions/main/module.json
+This is a simple fork of the original package provided at: https://foundryvtt.com/packages/pf2e-animal-companions
+
+Only forked to keep compatibility with core foundry version 0.8.9.
+
+Module URL: https://github.com/bromerott/PF2e-Animal-Companions/blob/main/module.json
 
 into the install module dialog on the Foundry Add-on Module tab.
 
